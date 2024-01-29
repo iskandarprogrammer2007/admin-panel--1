@@ -1,0 +1,69 @@
+
+.nav__right__img{
+    width: 70px;
+    height: 50px;
+}
+
+.nav__right__name{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.nav__right__img img{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 100%;
+}
+
+i{
+    width: 100%;
+}
+
+.hamburger{
+    border: none;
+    background-color: white;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+    align-items: center;
+}
+
+.nav__right{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btns{
+    display: flex;
+    gap: 15px;
+}
+
+.point_3{
+    border: 1px solid transparent;
+    background: #EEF2F5;
+    color: black;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+}
+
+.add{
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(94, 221, 94);
+    width: 70px;
+    height: 30px;
+}

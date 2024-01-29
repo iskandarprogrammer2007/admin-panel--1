@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root{
+    --table--background:#EEF2F5;
+    --table--height: 80px ;
+    --price--color:rgb(42, 235, 42);
+    --lost--price--color:rgb(253, 43, 43);
+}
+
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
